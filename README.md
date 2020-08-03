@@ -1,5 +1,7 @@
 # E-mail Templates
 
+- [Boas práticas de HTML – Email Marketing](https://ajuda.locaweb.com.br/wiki/boas-praticas-de-html-para-email-marketing-ajuda-locaweb/)
+
 ## [Exemplo-1](ex-1/email-confirmation.html)
 
 - Este é um template para confirmação de pedidos para restaurantes, baseado no template do iFood.
