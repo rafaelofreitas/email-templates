@@ -17,6 +17,6 @@ Um exemplo utilizando FreeMarker(uma biblioteca Java para gerar saída de texto 
 - Este é um template para e-mail marketing ou publicidade por correio eletrônico.
 - Baseado nos emails de marketing que recebo frequentemente :smile:
 
-<p style="width:60%;">
+<p align="center">
   <img src="img/email-marketing.gif">
 </p>
