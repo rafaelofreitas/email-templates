@@ -16,5 +16,5 @@ Um exemplo utilizando FreeMarker(uma biblioteca Java para gerar saída de texto 
 - Baseado nos emails de marketing que recebo frequentemente :smile:
   
 <p align="center">
-  <img  src="img/email-marketing.gif">
+  <img  style="width:80%"src="img/email-marketing.gif">
 </p>
